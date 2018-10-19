@@ -1,4 +1,4 @@
-# Russian key bindings for Sublime Text 3
+# Russian key bindings for Sublime Text 3 Linux/Windows
 
 [Sublime 3](https://www.sublimetext.com/) замечателен, однако, не работает с русской раскладкой "из коробки". Добавляя русифицированные сочетания клавиш, мы можем использовать стандартные сочетания клавиш на русской раскладке.
 
